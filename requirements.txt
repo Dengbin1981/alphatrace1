@@ -1,0 +1,10 @@
+streamlit
+plotly
+pandas
+numpy
+tushare
+
+PyTorch
+anaconda3
+pytorch_env
+Appium
